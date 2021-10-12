@@ -1,5 +1,6 @@
 # NSEMBED-Web-Server
-_An ESP32 Web Server for Embedded Platform Development (NSEMBED)._
+_An ESP32 Web Server for Embedded Platform Development (NSEMBED)._\
+Date Accomplished: September 21, 2021
 
 ## Use
 This project allows users to learn the morse code equivalent of three different words, NSEMBED, Bernice, and Betito. The morse code equivalent of each words are shown through the blinking LED in the ESP32 board.
